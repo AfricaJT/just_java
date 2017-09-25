@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Just Java</string>
+    <string name="decrement" translatable="false">-</string>
+    <string name="quantity">Quantity</string>
+    <string name="initial_quantity" translatable="false">0</string>
+    <string name="increment" translatable="false">+</string>
+    <string name="order_summary">ORDER SUMMARY</string>
+    <string name="order">Order</string>
+    <string name="toppings">Toppings</string>
+    <!-- A topping for the coffee. [CHAR LIMIT=20]-->
+    <string name="whipped_cream">Whipped cream</string>
+    <string name="ammended_price" translatable="false">%d</string>
+    <string name="chocolate">Chocolate</string>
+    <string name="text_name">Name</string>
+    <string name="send_email">Send</string>
+    <string name="toast_whipped_cream">Whipped Cream is an extra</string>
+    <string name="toast_chocolate">Chocolate is an extra</string>
+    <string name="summary_add">Add</string>
+    <string name="summary_total">Total</string>
+    <string name="thank_you">Thank You</string>
+    <string name="send_subject">Coffee Order</string>
+    <string name="negative_cups">You cannot have negative cups of coffee</string>
+    <string name="error_email_app">Install e-mail app to send</string>
+    <string name="summary_welcome">Welcome</string>
+</resources>

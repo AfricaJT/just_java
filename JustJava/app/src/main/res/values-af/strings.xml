@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Net Java</string>
+    <string name="chocolate">Sjokolade</string>
+    <string name="order">Bestelling</string>
+    <string name="order_summary">Bestelling opsomming</string>
+    <string name="quantity">Hoeveelheid</string>
+    <string name="send_email">Stuur</string>
+    <string name="text_name">Naam</string>
+    <string name="whipped_cream">Geklopte room</string>
+    <string name="toppings">Ekstras</string>
+    <string name="toast_chocolate">Sjokolade is \'n ekstra</string>
+    <string name="toast_whipped_cream">Geklopte Room is \'n ekstra</string>
+    <string name="summary_add">Voeg</string>
+    <string name="summary_total">Totaal</string>
+    <string name="thank_you">Baie Dankie</string>
+    <string name="send_subject">Koffee Bestelling</string>
+    <string name="negative_cups">Jy kan nie negatiewe koppies koffie hê nie</string>
+    <string name="error_email_app">Installeer e-pos program om te stuur</string>
+    <string name="summary_welcome">Welkom</string>
+</resources>
